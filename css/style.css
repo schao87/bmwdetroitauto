@@ -1,0 +1,41 @@
+.container{
+	width:1000px;
+	font-family: Helvetica, 'Helvetica Neue', Arial, sans-serif;
+}
+#showtime{
+	height: 101px;
+	width: 1000px;
+	float: left;
+	position: relative;
+}
+h1{
+	font-size: 38px;
+	margin: 0;
+}
+h2{
+	font-size: 14px;
+}
+h3{
+	font-size: 20px;
+}
+#bigM3{
+	height: 287px;
+	width: 1000px;
+	position: relative;
+	float: left;
+}
+#socialLinks{
+	height: 29px;
+	width: 1000px;
+	float: left;
+	position: relative;
+}
+.carBox{
+	width: 460px;
+	height: 300px;
+	padding: 3px;
+	float: left;
+	margin: 15px;
+	position: relative;
+	border: solid #e0e0e0 1px;
+}
