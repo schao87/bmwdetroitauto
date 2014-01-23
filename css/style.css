@@ -11,12 +11,15 @@
 h1{
 	font-size: 38px;
 	margin: 0;
+	letter-spacing: -1px;
 }
 h2{
 	font-size: 14px;
+	letter-spacing: -1px;
 }
 h3{
 	font-size: 20px;
+	letter-spacing: -1px;
 }
 #bigM3{
 	height: 287px;
